@@ -1,0 +1,12 @@
+dependencies:
+  - jupyter-server-proxy
+  - pyviz:holoviews
+  - pyviz::panel
+  - pyviz::param
+  - pyviz::hvplot
+  - bokeh::bokeh
+  - pandas
+  - numpy
+  - altair
+  - notebook
+  - vega
