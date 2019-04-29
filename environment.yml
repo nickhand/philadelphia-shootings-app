@@ -1,13 +1,15 @@
 dependencies:
-  - nbserverproxy
-  - pyviz:holoviews
-  - pyviz::panel
-  - pyviz::param
-  - pyviz::hvplot
-  - bokeh::bokeh
   - conda-forge::geopandas
   - conda-forge::folium
   - altair
   - notebook
   - vega
-  - tornado<6
+  - nbserverproxy
+  - pyviz::param=1.9.0
+  - pyviz::pyviz_comms=0.7.2
+  - pyviz::datashader
+  - pyviz:holoviews
+  - pyviz::hvplot
+  - bokeh::bokeh
+  - pyviz::panel=0.5.1
+  - tornado<6  
