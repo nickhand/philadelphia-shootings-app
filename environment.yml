@@ -1,5 +1,5 @@
 dependencies:
-  - jupyter-server-proxy
+  - nbserverproxy
   - pyviz:holoviews
   - pyviz::panel
   - pyviz::param
@@ -10,3 +10,4 @@ dependencies:
   - altair
   - notebook
   - vega
+  - tornado<6
