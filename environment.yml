@@ -5,8 +5,8 @@ dependencies:
   - pyviz::param
   - pyviz::hvplot
   - bokeh::bokeh
-  - pandas
-  - numpy
+  - conda-forge::geopandas
+  - conda-forge::folium
   - altair
   - notebook
   - vega
